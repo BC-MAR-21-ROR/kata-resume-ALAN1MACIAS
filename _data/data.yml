@@ -7,110 +7,95 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  name: Alan Guillermo Avila Macías # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: profile1.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
-  website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  email: g20160094@gmail.com
+  phone: 314 109 1375
+  website: alan1macias.github.io/About-me/ # No agregar http://
+  linkedin: www.linkedin.com/in/alang2016/
+  github: github.com/ALAN1MACIAS
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  stack-overflow: 162002/alang # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Newbie # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Analytical skills
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Self-taught
+      link: # dejar en blanco
+
+    - item: Proactive
+      link: # dejar en blanco
+
+    - item: Code understanding
+      link: # dejar en blanco
+
+    - item: Transferring knowledge
+      link: # dejar en blanco
+
+    - item: Report writing and flow charting
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    As an IT engineer, I have developed skills in web development (JavaScript, PHP, Laravel), as well as database maintenance (MySQL, PostgreSQL, Firebird, SQL server) and technical support for computer equipment. I have also worked with Business Intelligence, Big Data and Scrum methodology in the area of software development.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Information Technology Engineer
+    university: Universidad Tecnologica de manzanillo
+    time: 2016 - 2020
     details: |
+      Engineering thesis topic Development and implementation of the transport module at tactical level.
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      - Deep learning
+      - Web development
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Backend Developer
+    time: 2021 - Present
+    company: Ectotec
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Develop APIS with symfony and return results in json to integrate to frontend.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Full stack developer
+    time: 2020 Dec - 2021 Jan
+    company: Corporativo Internacional Especializado, Manzanillo col.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Develop and apply the skills of technical support, application developer and data analyst. Implemented as a core competency in charge of the integrity and implementation of web systems:
+
+      - Human Resources documents management system (Laravel, SQL Server).
+      - System for tracking of transports and administration of the company's and a form for the creation of a pdf file for a quotations ​system. (Laravel, SQL Server).
+      - Creation of a ticket system, in which the problems of the executives of the company are raised, and then follow the support of the ticket. (Laravel, MySQL).
+      - Development of a system for the allocation of referrals by branch, at agency level. (Laravel, MYSQL, Firebird).
+
+  - role: Backend Developer
+    time: 2019 Jul - 2019 Oct
+    company: Magsan Motors, Manzanillo col.
+    details: |
+      Development and implementation of software to control some variables of the digital dashboard of the vehicle, which is one of the first vehicles in which this company is working. The technologies with which I developed the software of this board was with JAVA and some of its libraries, and the use of the computer board (Raspberry).
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,23 +107,38 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: Ruby
       level: 60%
 
-    - name: Caffe
+    - name: JavaScript (Ajax, Json, JQuery)
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: PHP
+      level: 80%
 
-    - name: C/C++
+    - name: Laravel
+      level: 80%
+
+    - name: Ruby on Rails
       level: 40%
+
+    - name: CodeIgniter
+      level: 60%
+
+    - name: MYSQL
+      level: 80%
+
+    - name: SQL Server
+      level: 80%
+
+    - name: Firebird
+      level: 60%
+
+    - name: PostgreSQL
+      level: 60%
+
+    - name: Github
+      level: 60%
 
 # NO MODIFICAR
 footer: >

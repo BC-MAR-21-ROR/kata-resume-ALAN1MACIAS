@@ -59,7 +59,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    As an IT engineer, I have developed skills in web development (JavaScript, PHP, Laravel), as well as database maintenance (MySQL, PostgreSQL, Firebird, SQL server) and technical support for computer equipment. I have also worked with Business Intelligence, Big Data and Scrum methodology in the area of software development.
+    As an IT engineer, I have developed skills in web development (JavaScript, PHP, Laravel, Ruby on Rails, React), as well as database maintenance (MySQL, PostgreSQL, Firebird, SQL server). I have also worked with Business Intelligence, Big Data and Scrum methodology in the area of software development.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:

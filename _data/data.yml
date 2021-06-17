@@ -19,9 +19,9 @@ sidebar:
   github: github.com/ALAN1MACIAS
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@AlanG59854710'
   stack-overflow: 162002/alang # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: www.codewars.com/users/ALAN1MACIAS
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
@@ -75,7 +75,7 @@ educationcomplete:
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Backend Developer
-    time: 2021 - Present
+    time: 2021 Mar - Present
     company: Ectotec
     details: |
       Develop APIS with symfony and return results in json to integrate to frontend.
@@ -113,17 +113,23 @@ skills:
     - name: JavaScript (Ajax, Json, JQuery)
       level: 80%
 
+    - name: Ruby on Rails
+      level: 60%
+
+    - name: React.js
+      level: 60%
+
     - name: PHP
       level: 80%
 
     - name: Laravel
       level: 80%
 
-    - name: Ruby on Rails
-      level: 40%
+    - name: Simfony
+      level: 60%
 
     - name: CodeIgniter
-      level: 60%
+      level: 40%
 
     - name: MYSQL
       level: 80%
@@ -138,7 +144,7 @@ skills:
       level: 60%
 
     - name: Github
-      level: 60%
+      level: 80%
 
 # NO MODIFICAR
 footer: >
